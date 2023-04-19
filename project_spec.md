@@ -11,18 +11,18 @@
 
 ### Description 
 
-**Description of your app**
+**A comprehensive and easy-to-use food diary app, Allows users to track and monitor their food intake, as well as set and achieve personal health goals.**
 
 ### App Evaluation
 
 <!-- Evaluation of your app across the following attributes -->
 
-- **Category:**
-- **Mobile:**
-- **Story:**
-- **Market:**
-- **Habit:**
-- **Scope:**
+- **Category:** Health & Fitness / Lifestyle
+- **Mobile:** App available on iOS and Android, uses camera, mobile first experience.
+- **Story:** Allows users to track and monitor their food intake, as well as set and achieve personal health goals. Users can log their meals, snacks, and beverages, and receive personalized recommendations based on their dietary needs and preferences. The app also offers features such as calorie tracking, macro tracking, and recipe suggestions.
+- **Market:** Anyone who is interested in monitoring their food intake and improving their dietary habits could enjoy this app. It is particularly popular among those who want to lose weight, manage chronic health conditions, or simply maintain a healthy lifestyle.
+- **Habit:** Users can use the app to log their meals and track their progress on a daily basis, and the app's personalized recommendations and recipe suggestions make it a highly habit-forming tool for improving overall health and nutrition. However, the frequency and extent of use may depend on individual dietary goals and preferences.
+- **Scope:** The Food Diary app is focused on providing a comprehensive and customizable platform for tracking and monitoring food intake and dietary habits. While it offers features such as calorie tracking and recipe suggestions, it is primarily designed for logging and analyzing dietary data. However, some food diary apps may offer additional features such as meal planning and grocery list generation.
 
 ## Product Spec
 
