@@ -67,7 +67,7 @@ User Action: Track progress towards goal**
 ## Wireframes
 
 <!-- Add picture of your hand sketched wireframes in this section -->
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+![CodepathWireframe](https://user-images.githubusercontent.com/71582315/233284593-f9a9465c-4957-427a-817c-e062e98424f3.jpg)
 
 ### [BONUS] Digital Wireframes & Mockups
 
