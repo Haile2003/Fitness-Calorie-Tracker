@@ -57,6 +57,13 @@ Required Feature: Food Diary
 - **Edit food in diary**
   - => **The user can edit the quantity of the food or remove it entirely from the food diary, and the nutrient information is updated accordingly.**
 
+Required Feature: Personalized Goals
+
+- **Set weight loss goal**
+  - => **The user sets a goal to lose a certain amount of weight, and the app calculates a daily calorie deficit needed to achieve the goal.
+User Action: Track progress towards goal**
+  - => **The user can track their progress towards the weight loss goal, with the app displaying their current weight, the amount of weight lost, and the estimated time to reach the goal based on their daily calorie deficit.**
+
 ## Wireframes
 
 <!-- Add picture of your hand sketched wireframes in this section -->
