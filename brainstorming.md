@@ -47,6 +47,12 @@ Mobile App Dev - App Brainstorming
    - A fitness tracker app is a mobile application that helps users monitor their physical activity, exercise routines, and overall health and wellness. The app typically features a range of tools and features designed to help users set and achieve fitness goals, track their progress, and maintain a healthy lifestyle.
 4. Food Diary
    - A food diary app is a mobile application that helps users track and monitor their daily food intake and nutrition. The app typically features a range of tools and features designed to help users make healthy eating choices, stay within their calorie goals, and maintain a balanced diet.
+5. Pokedex
+   - A Pokédex app is a digital encyclopedia for Pokémon fans that contains information about various Pokémon species. The app allows users to access information on a wide range of Pokémon, including their stats, abilities, evolution, movesets, and other relevant data
+6. Language Learning
+   - An app that helps users learn a new language through interactive lessons, quizzes, and games. It could include features like pronunciation practice, grammar explanations, and cultural insights.
+7. Music Player
+   - An app that provides a simple and intuitive interface for listening to music on your device. It could include features like playlist creation, equalizer settings, and song recommendations based on listening history.
 
 ## Top 3 New App Ideas
 1. Calculator
