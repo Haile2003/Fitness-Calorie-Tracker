@@ -1,4 +1,4 @@
-# Fitness-Calorie-Tracker
+# NutriLog
 <!-- (This is a comment) INSTRUCTIONS: Go through this page and fill out any **bolded** entries with their correct values.-->
 
 # AND101 Milestone 1 - **Group-18**
@@ -9,7 +9,7 @@ Submitted by:
 - **Vybavnag Kandasamy**
 - **Moustafa Soliman**
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Summary
 
@@ -28,14 +28,14 @@ The following REQUIRED features are completed:
 
 The following REQUIRED files are included:
 
-- [ ] Included 📄 `brainstorming.md`, which contains:
-  - [ ] Our initial brainstorming ideas (6+ ideas)
-  - [ ] 5-category evaluation of our top 3 ideas
-  - [ ] Final app idea chosen
-- [ ] Included 📄 `project_spec.md`, which contains:
-  - [ ] App Overview: Description and evaluation
-  - [ ] App Spec: User features, Chosen API(s), User Interactions
-  - [ ] Wireframe image(s)
+- [X] Included 📄 `brainstorming.md`, which contains:
+  - [X] Our initial brainstorming ideas (6+ ideas)
+  - [X] 5-category evaluation of our top 3 ideas
+  - [X] Final app idea chosen
+- [X] Included 📄 `project_spec.md`, which contains:
+  - [X] App Overview: Description and evaluation
+  - [X] App Spec: User features, Chosen API(s), User Interactions
+  - [X] Wireframe image(s)
 
 The following BONUS features are implemented:
 
