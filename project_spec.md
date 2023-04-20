@@ -30,31 +30,32 @@
 
 Required Features:
 
-- **fill in here**
-- ...
-
+- Food Database: A comprehensive database of foods and their nutritional values, which can be easily searched and added to the user's food diary.
+- Calorie Tracking: The ability to track calories consumed and burned, as well as monitor macronutrient and micronutrient intake.
 Stretch Features:
 
-- **fill in here**
-- ...
-
 ### 2. Chosen API(s)
+**API #1: USDA FoodData Central API**
 
-- **list first API endpoint here**
-  - **list associated required feature here**
-  - ...
-- ...
+- **Endpoint:** /foods/search
+  - **Required Feature:** Food Database
+- **Endpoint:** /foods/{fdcId}
+  - **Required Feature:** Detailed Nutrient Information
 
+**API #2: OpenWeatherMap API**
+
+- **Endpoint:** /weather
+  - **Required Feature:** Weather Forecast
+  - 
 ### 3. User Interaction
 
-Required Feature
+Required Feature: Food Diary
 
-- **list first user action here**
-  - => **list result of user action here**
-  - ...
-- **list second user action here**
-  - => **list result of user action here**
-  - ...
+- **Add food to diary**
+  - => **The selected food is added to the user's food diary, and the nutrient information is automatically calculated and displayed.**
+  
+- **Edit food in diary**
+  - => **The user can edit the quantity of the food or remove it entirely from the food diary, and the nutrient information is updated accordingly.**
 
 ## Wireframes
 
