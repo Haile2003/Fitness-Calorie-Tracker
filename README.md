@@ -1,21 +1,20 @@
-# NutriLog
 <!-- (This is a comment) INSTRUCTIONS: Go through this page and fill out any **bolded** entries with their correct values.-->
 
-# AND101 Milestone 1 - **Group-18**
+# AND101 Milestone 2 - **NutriLog**
 
 Submitted by:
 - **Jevon Harry**
 - **JunZheng Lyu**
 - **Vybavnag Kandasamy**
 - **Moustafa Soliman**
+- **Imo Ukpong**
+- **Jacob Tang**
 
-Time spent: **3** hours spent in total
+Time spent: **7** hours spent in total
 
 ## Summary
 
-This document provides an overview, project spec, and wireframes for our team's capstone project: An app that **create many kinds of food, calculate the nutritional information for any recipe, estimate recipe costs, visualize ingredient lists, find recipes for what’s in your fridge, find recipes based on special diets, nutritional requirements, or favorite ingredients, classify recipes into types and cuisines, convert ingredient amounts, or even compute an entire meal plan.**
-
-If we had to describe this milestone in three (3) emojis, they would be: **❤️🔥😊**
+This document provides a summary of our project building process for our app, **App Name Here**
 
 ## Milestone Requirements
 
@@ -23,28 +22,31 @@ If we had to describe this milestone in three (3) emojis, they would be: **❤�
 
 The following REQUIRED features are completed:
 
-- [X] Creation of GitHub Organization and Group Project Repo
-- [X] Updated Course Portal group info with Group Name and App Description
+- [X] Assign features to each member of your group
+- [X] Establish a goal time for completing each feature
 
 The following REQUIRED files are included:
 
-- [X] Included 📄 `brainstorming.md`, which contains:
-  - [X] Our initial brainstorming ideas (6+ ideas)
-  - [X] 5-category evaluation of our top 3 ideas
-  - [X] Final app idea chosen
-- [X] Included 📄 `project_spec.md`, which contains:
-  - [X] App Overview: Description and evaluation
-  - [X] App Spec: User features, Chosen API(s), User Interactions
-  - [X] Wireframe image(s)
+- [X] Updated 📄 `project_spec.md`, which contains:
+  - [X] App Overview (Milestone 1)
+  - [X] App Spec (Milestone 1)
+  - [X] Checked off 2+ completed features
+  - [X] 2+ GIFs of build progress
 
-The following BONUS features are implemented:
-
-- [ ] Added digital wireframe/mockup image(s)
-- [ ] Added a GIF of an interactive prototype
+- [X] Our 🎥 Demo Video
+  - [X] We have also added the Demo Video Link to the Group Info Form on the course portal.
 
 The following EXTRA features are implemented:
 
 - [ ] List anything else that you added to improve your submission!
+
+## 🎥 Demo Video
+
+Here's a video that demos all of the app's implemented features:
+
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+
+VIDEO created with **ScreenToGif**
 
 ## Notes
 
